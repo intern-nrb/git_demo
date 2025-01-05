@@ -1,1 +1,2 @@
-# git_demo
+## Git Commands Demo
+This is my first repository
